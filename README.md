@@ -7,6 +7,9 @@
 2. xxxxxx
 ## Responsibilities
 ### Brendan Scheidt
+- Integrated health mechanic into ```BP_target```.
+- Created health bar widget for targets
+- Created new objects that damage the player (```BP_HurtingObject2```, ```BP_KillBox```, ```BP_Spikes```)
 - 
 ### James Beattie Jr.
 - 
