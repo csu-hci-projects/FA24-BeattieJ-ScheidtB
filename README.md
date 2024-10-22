@@ -9,13 +9,21 @@
 ### Brendan Scheidt
 - Integrated health mechanic into ```BP_target```.
 - Created health bar widget for targets
+- Created main menu widget and logic for playing or wuitting game
 - Created new objects that damage the player (```BP_HurtingObject2```, ```BP_KillBox```, ```BP_Spikes```)
 - Created second level (obstacle course style-map).
+- Created rotating platform blueprints
+- Created level transitions between main menu, level 1, and level 2
+- Pruned unused assets and uploaded to GitHub
 ### James Beattie Jr.
 - Created UI (User Interface) which displays ammo count, # of targets, and the health bar. All of which dynamically update as player progresses through game. 
 - Created logic for ammo/ammo pick ups for the weapon component.
 - Created first level (small-town map). 
 - Created logic for targets to disappear once they lose all health.
+- Created level completion logic for counting total targets and how many the player has destroyed.
+- Created logic for failing to fire weapon if ammo is empty
+- Created logic for picking up and storing total score of player
+- Created explosion platform and practice physics cubes for level 1
 ### Tasks Brendan & James worked on together
 - Created health logic for player, including logic for how the player takes damage from the rotating objects, and how the player can replenish health from health pickups scattered around the map.
 ## How to Run
