@@ -4,7 +4,7 @@
 - James Beattie Jr.
 ## Links to Videos
 1. xxxxxx
-2. xxxxxx
+2. (Long Video) https://youtu.be/gLPMM8J7Gn8
 ## Responsibilities
 ### Brendan Scheidt
 - Integrated health mechanic into ```BP_target```.
