@@ -3,8 +3,8 @@
 - Brendan Scheidt
 - James Beattie Jr.
 ## Links to Videos
-1. xxxxxx
-2. (Long Video) https://youtu.be/gLPMM8J7Gn8
+1. (Features Demo) https://youtu.be/cRAK2ldGZ84
+2. (Blueprint Walkthrough) https://youtu.be/gLPMM8J7Gn8
 ## Responsibilities
 ### Brendan Scheidt
 - Integrated health mechanic into ```BP_target```.
