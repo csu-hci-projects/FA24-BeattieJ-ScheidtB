@@ -2,10 +2,13 @@
 ## Team Members:
 - Brendan Scheidt
 - James Beattie Jr.
-## Links to Videos
+## Links to Videos (HW1)
 1. (Features Demo) https://youtu.be/cRAK2ldGZ84
 2. (Blueprint Walkthrough) https://youtu.be/gLPMM8J7Gn8
-## Responsibilities
+## Links to Videos (HW2)
+1. 
+2. 
+## Responsibilities (HW1)
 ### Brendan Scheidt
 - Integrated health mechanic into ```BP_target```.
 - Created health bar widget for targets
@@ -24,15 +27,20 @@
 - Created logic for failing to fire weapon if ammo is empty
 - Created logic for picking up and storing total score of player
 - Created explosion platform and practice physics cubes for level 1
-### Tasks Brendan & James worked on together
+### Tasks Brendan & James worked on together (HW1)
 - Created health logic for player, including logic for how the player takes damage from the rotating objects, and how the player can replenish health from health pickups scattered around the map.
+## Responsibilities (HW2)
+### Brendan Scheidt
+
+### James Beattie Jr.
+
 ## How to Run
 1. From the main branch of this repository, click the code button and click "download zip".
 2. Unzip the downloaded archive and place the project folder inside of where you keep your other Unreal Engine 5 projects locally.
 3. Open Unreal Engine 5.3.2 via the Epic Games Launcher.
 4. Locate the new project folder you just unzipped. (you might need to refresh your projects from the launcher window)
 5. Click "open" on the project and wait for Unreal Engine 5.3.2 to load.
-6. Once you load in, you will be on the ```MenuLevel``` level which is an empty black world. Press the green play button at the top of the editor to begin playing the game!
+6. Once you load in, press the green play button at the top of the editor to begin playing the game!
 ## References Used
 - https://youtu.be/nXY-FBS1spY?si=lUP1Oyp-AVy2WuwU
 ## 	Meetings with our group
