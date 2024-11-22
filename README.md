@@ -48,3 +48,5 @@
 2. 10/14/24 - Meeting in 225 lab (discuss completion of some blueprints as well as first level).
 3. 10/21/24 - In class meeting (complete in class document).
 4. 10/21/24 - Meeting after school (add final touches, record videos, etc).
+5. 11/22/24 - Meeting in 225 lab (discuss bugs and potential fixes)
+6. 12/2/24 - Meeting in class (discussed what tasks are finished)
