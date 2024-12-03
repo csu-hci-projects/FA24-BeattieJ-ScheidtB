@@ -33,6 +33,7 @@
 ### Brendan Scheidt
 
 ### James Beattie Jr.
+- Set up base VR level/project
 - Added weapon logic including delay to reload
 - Added sound effect for reload
 - Created base room (shooting range style area)
