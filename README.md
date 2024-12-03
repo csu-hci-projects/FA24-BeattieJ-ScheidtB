@@ -33,7 +33,11 @@
 ### Brendan Scheidt
 
 ### James Beattie Jr.
-
+- Added weapon logic including delay to reload
+- Added sound effect for reload
+- Created base room (shooting range style area)
+- Added block grabables in starting room
+- Created navigation area for player to teleport/move
 ## How to Run
 1. From the main branch of this repository, click the code button and click "download zip".
 2. Unzip the downloaded archive and place the project folder inside of where you keep your other Unreal Engine 5 projects locally.
