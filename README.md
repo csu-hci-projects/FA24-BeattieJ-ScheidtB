@@ -56,6 +56,7 @@
 6. Once you load in, press the green play button at the top of the editor to begin playing the game!
 ## References Used
 - https://youtu.be/nXY-FBS1spY?si=lUP1Oyp-AVy2WuwU
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine
 ## 	Meetings with our group
 1. 10/7/24 - Meeting in 225 lab (discuss our roles and what we will be doing).
 2. 10/14/24 - Meeting in 225 lab (discuss completion of some blueprints as well as first level).
