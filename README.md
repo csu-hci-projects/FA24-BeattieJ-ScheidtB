@@ -31,14 +31,22 @@
 - Created health logic for player, including logic for how the player takes damage from the rotating objects, and how the player can replenish health from health pickups scattered around the map.
 ## Responsibilities (HW2)
 ### Brendan Scheidt
-
+- Added VR grab interactables (Spheres)
+- Modified pistol blueprint to keep track of ammo
+- Added logic to targets
+- Modified level blueprint to keep track of targets destroyed
+- Created an unlockable "no-teleport" area
+- Created "win" level
+- Created VR menu scene
+- Modified targets to move
+- Added a "secret" room thats unlockable with a grab interactable
 ### James Beattie Jr.
-- Set up base VR level/project
-- Added weapon logic including delay to reload
-- Added sound effect for reload
-- Created base room (shooting range style area)
-- Added block grabables in starting room
-- Created navigation area for player to teleport/move
+- Created new VR Project
+- Created new level with static meshes
+- Created teleportation area
+- Added VR grab interactables (Blocks)
+- Added a delayed reload function
+- Added targets to level
 ## How to Run
 1. From the main branch of this repository, click the code button and click "download zip".
 2. Unzip the downloaded archive and place the project folder inside of where you keep your other Unreal Engine 5 projects locally.
