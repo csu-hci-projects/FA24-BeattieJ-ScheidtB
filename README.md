@@ -49,9 +49,9 @@
 - Added targets to level
 ## How to Run
 1. From the main branch of this repository, click the code button and click "download zip".
-2. Unzip the downloaded archive and place the project folder inside of where you keep your other Unreal Engine 5 projects locally.
+2. Unzip the downloaded archive and place the HW1 and HW2 folders inside of where you keep your other Unreal Engine 5 projects locally.
 3. Open Unreal Engine 5.3.2 via the Epic Games Launcher.
-4. Locate the new project folder you just unzipped. (you might need to refresh your projects from the launcher window)
+4. Locate either the HW1 or HW2 folder you just unzipped. (you might need to refresh your projects from the launcher window)
 5. Click "open" on the project and wait for Unreal Engine 5.3.2 to load.
 6. Once you load in, press the green play button at the top of the editor to begin playing the game!
 ## References Used
