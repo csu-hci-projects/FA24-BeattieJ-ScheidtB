@@ -6,8 +6,8 @@
 1. (Features Demo) https://youtu.be/cRAK2ldGZ84
 2. (Blueprint Walkthrough) https://youtu.be/gLPMM8J7Gn8
 ## Links to Videos (HW2)
-1. 
-2. 
+1. (Features Demo) https://youtu.be/cGn2bf0jB6s
+2. (Blueprint Walkthrough) https://youtu.be/MW9sox5X60Y
 ## Responsibilities (HW1)
 ### Brendan Scheidt
 - Integrated health mechanic into ```BP_target```.
